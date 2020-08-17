@@ -1,0 +1,13 @@
+mat-card{
+    margin: 0 40%;
+    margin-top: 40px;
+}
+mat-card-title{
+    color: blueviolet;
+}
+mat-form-field{
+   color: orangered;
+}
+button{
+    margin-left: 20px;
+}
